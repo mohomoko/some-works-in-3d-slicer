@@ -1,4 +1,4 @@
-# How to install Slicer (5.8.1) in wsl?
+# How to install Slicer (e.x. 5.8.1) in wsl?
 
 Ask [ChatGPT](https://chatgpt.com/) OR do these ↓ ( :godmode: )
 
