@@ -1,10 +1,10 @@
-# How to install Slicer (e.x. 5.8.1) in wsl?
+# How to install Slicer (e.x. 5.8.1) and run with GUI in [WSL](https://www.google.com/search?q=what+is+wsl)?
 
 Ask [ChatGPT](https://chatgpt.com/) OR do these ↓ ( :godmode: )
 
 ## if you don't have wsl
 
-better to ask [ChatGPT](https://chatgpt.com/) ( 😅 )
+Better to ask [ChatGPT](https://chatgpt.com/) ( 😅 )
 
 ## inside wsl (`lsb_release -a`: Ubuntu 22.04.5 LTS)
 
@@ -16,7 +16,7 @@ better to ask [ChatGPT](https://chatgpt.com/) ( 😅 )
 
 3. Extract downloaded file (e.x. `Slicer-5.8.1-linux-amd64.tar` with `tar -xvzf` to `/Slicer-5.8.1-linux-amd64`)
 
-4. type `cd ./Slicer-5.8.1-linux-amd64/` and after that `./Slicer` to start
+4. Type `cd ./Slicer-5.8.1-linux-amd64/` and after that `./Slicer` to start
 
 5. If have truble, check permisions (`chmod`) of executive file
 
@@ -63,3 +63,7 @@ better to ask [ChatGPT](https://chatgpt.com/) ( 😅 )
 
 
     * If you still have trouble, Ask ... [ChatGPT](https://chatgpt.com/)  :trollface:
+
+## Feature works:
+
+Install extensions in 3DSlicer without opening GUI in WSL! :heart_eyes: 
